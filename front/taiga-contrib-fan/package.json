@@ -2,14 +2,13 @@
   "name": "taiga-contrib-fan",
   "version": "1.0.0",
   "description": "Integrate your favorite project in the dashboard",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/leblanc-simon/taiga-contrib-fan"
   },
   "keywords": [
     "fan",
-    "taiga",
+    "taiga"
   ],
   "author": "Simon Leblanc <contact@leblanc-simon.eu>",
   "license": "MIT",
@@ -17,8 +16,6 @@
     "url": "https://github.com/leblanc-simon/taiga-contrib-fan/issues"
   },
   "homepage": "https://github.com/leblanc-simon/taiga-contrib-fan",
-  "dependencies": {
-  },
   "devDependencies": {
     "coffee-script": "^1.8.0",
     "gulp": "^3.9.0",
