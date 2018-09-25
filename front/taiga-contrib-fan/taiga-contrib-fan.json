@@ -1,0 +1,8 @@
+{
+    "name": "Taiga Contrib Fan",
+    "slug": "taiga-contrib-fan",
+    "description": "Integrate your favorite project in the dashboard",
+    "module": "taigaContrib.fan",
+    "js": "/plugins/taiga-contrib-fan/taiga-contrib-fan.js",
+    "css": "/plugins/taiga-contrib-fan/taiga-contrib-fan.css"
+}

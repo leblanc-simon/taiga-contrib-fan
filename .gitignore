@@ -1,0 +1,8 @@
+/back/*.egg-info
+/back/*/__pycache__
+/back/*.pyc
+/back/*/*.pyc
+/front/taiga-contrib-fan/dist/*
+!/front/taiga-contrib-fan/dist/.gitkeep
+/front/taiga-contrib-fan/node_modules
+/front/taiga-contrib-fan/package-lock.json
